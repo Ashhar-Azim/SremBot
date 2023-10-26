@@ -20,19 +20,19 @@ Before running the bot, make sure you have the following:
 
 1. Clone this repository to your local machine.
 
- `git clone <repository_url>`
+     `git clone https://github.com/Ashhar-Azim/SremBot`
 
 2. Install the required Python packages
 
- `pip install -r requirements.txt`
+     `pip install -r requirements.txt`
 
 3. Set up a Discord bot in the Discord Developer Portal and obtain a bot token.
 
 4. Create a `.env file` and add your bot token as follows:
 
- `TOKEN=YOUR_BOT_TOKEN_HERE`
+     `TOKEN=YOUR_BOT_TOKEN_HERE`
 
 5. Run the bot script:
 
- `python main.py`
+     `python main.py`
 
