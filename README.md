@@ -30,7 +30,7 @@ Before running the bot, make sure you have the following:
 
 4. Create a `.env file` and add your bot token as follows:
 
-     `TOKEN=YOUR_BOT_TOKEN_HERE`
+     `TOKEN=YOUR_BOT_TOKEN_HERE` 
 
 5. Run the bot script:
 
