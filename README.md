@@ -1,5 +1,5 @@
 # SremBot 
-
+Editv: the bot is now offline and would be functional soon
 This repository contains a Discord bot named Srembot, i made for my friend. Written in Python using the Discord.py library. The bot responds to specific messages and commands in his Discord server.
 
 ## Features
